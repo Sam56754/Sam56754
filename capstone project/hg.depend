@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1696152368 source:c:\users\samuel\desktop\hg\main.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1696157830 source:c:\users\admin\onedrive\desktop\hg\main.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1696276798 source:c:\users\admin\onedrive\desktop\capstone project\main.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+
+1698034531 source:d:\documents\year 1 sem 1 activities\structured programming\capstone project\main.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
